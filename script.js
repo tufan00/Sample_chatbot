@@ -1,5 +1,4 @@
 const API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.3";
-// const API_KEY = "give your api key , example: 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";
 const API_KEY = "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";
 
 const chat = document.getElementById('chat');
